@@ -4,3 +4,6 @@
 .DS_Store
 /build
 *.iml
+ble/local.properties
+ble/.idea/vcs.xml
+ble/.idea/misc.xml
